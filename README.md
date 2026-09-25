@@ -54,12 +54,10 @@ Automated checks include:
 
 ## Test Results
 
-|     Result       |      Count      |
-
-| Total Test Cases |       12        |
-| Passed           |       11        |
-| Failed           |       1         |
-| Not Executed     |       0         |
+- Total Test Cases    -   12        
+- Passed              -   11        
+- Failed              -   1         
+- Not Executed        -   0         
 
 ### Key Observation
 
